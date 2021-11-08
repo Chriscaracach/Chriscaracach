@@ -21,5 +21,3 @@
 - I also have a <a target="_blank" href="https://portfolioccaracach.web.app/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a> of works that you can visit.
 
 ## That's all. Thanks
-
- Off the record, I am also a music teacher and musician. You can see my small works [HERE](https://www.instagram.com/subricato/)
