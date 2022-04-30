@@ -12,9 +12,14 @@
  
  As a music teacher, my work is related to **creativity**, **analysis** and **teamwork**. And above all, **adaptation to changes**. Those are skills I want to use heavily in my new life as a developer.
  
+<a href="https://github.com/Chriscaracach">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscaracach&layout=compact" />
+</a>
+ 
+ 
  ## 🔍 Find me at
  
- -  My Github account (you're already there)
+-  My Github account (you're already there)
 
 - or my <a target="_blank" href="https://www.linkedin.com/in/christian-caracach/"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a> account.
 
