@@ -15,6 +15,12 @@
 <a href="https://github.com/Chriscaracach">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscaracach&layout=compact" />
 </a>
+
+## 💻 Take a look of my projects
+
+[![Conway's game of life](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=React-game-of-life)](https://github.com/Chriscaracach/React-game-of-life)
+
+[![Superhero Search](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=superhero-search)](https://github.com/Chriscaracach/superhero-search)
  
  
  ## 🔍 Find me at
