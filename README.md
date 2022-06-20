@@ -12,15 +12,17 @@
  
  As a music teacher, my work is related to **creativity**, **analysis** and **teamwork**. And above all, **adaptation to changes**. Those are skills I want to use heavily in my new life as a developer.
  
-<a href="https://github.com/Chriscaracach">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscaracach&layout=compact" />
-</a>
+   <a href="https://github.com/Chriscaracach">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscaracach&layout=compact" />
+   </a>
+   <img src="https://komarev.com/ghpvc/?username=chris-caracach&style=flat-square&color=blue" alt=""/>
 
 ## 💻 Take a look of my projects
 
 [![Conway's game of life](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=React-game-of-life)](https://github.com/Chriscaracach/React-game-of-life)
 
 [![Superhero Search](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=superhero-search)](https://github.com/Chriscaracach/superhero-search)
+
  
  
  ## 🔍 Find me at
