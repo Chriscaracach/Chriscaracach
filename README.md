@@ -21,6 +21,10 @@
 
 [![Conway's game of life](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=React-game-of-life)](https://github.com/Chriscaracach/React-game-of-life)
 
+[![Collatz Conjecture calculator](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=React-collatz-conjecture-calculator)](https://github.com/Chriscaracach/React-collatz-conjecture-calculator)
+
+[![Simple ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=React-ecommerce)](https://github.com/Chriscaracach/React-ecommerce)
+
 [![Superhero Search](https://github-readme-stats.vercel.app/api/pin/?username=Chriscaracach&repo=superhero-search)](https://github.com/Chriscaracach/superhero-search)
 
  
