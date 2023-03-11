@@ -8,9 +8,9 @@
  
  ## 🚶 About me
  
- I am 30 years old, I am from Unquillo (Córdoba) and I live with my wife and daughter. I currently work as a music teacher, but I'm doing my best to live as a developer.
+ I am 32 years old, I am from Unquillo (Córdoba) and I live with my wife and daughter. I'm currently working as a Frontend Web Developer in a company called VelaONE from USA. 
  
- As a music teacher, my work is related to **creativity**, **analysis** and **teamwork**. And above all, **adaptation to changes**. Those are skills I want to use heavily in my new life as a developer.
+ I love being a developer, it connects me with my creative side and also makes me try to be better at team work. Please feel free of contact me if you think that you have some interesting position, I'm always open to new challenges.
  
    <a href="https://github.com/Chriscaracach">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscaracach&layout=compact" />
@@ -32,6 +32,8 @@
 - or my <a target="_blank" href="https://www.linkedin.com/in/christian-caracach/"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a> account.
 
 - I also have a <a target="_blank" href="https://portfoliochristiancaracach.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a> of works that you can visit.
+
+- One of my last side-projects is a blog where I translate blogposts related to frontend world from english to spanish. Take a look <a target="_blank" href="https://portfoliochristiancaracach.vercel.app/"><img src="https://img.shields.io/badge/Link-My%20Blog-success"/></a>
 
 
 That's all. Thanks
