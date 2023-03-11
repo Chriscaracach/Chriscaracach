@@ -33,7 +33,7 @@
 
 - I also have a <a target="_blank" href="https://portfoliochristiancaracach.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue"/></a> of works that you can visit.
 
-- One of my last side-projects is a blog where I translate blogposts related to frontend world from english to spanish. Take a look <a target="_blank" href="https://portfoliochristiancaracach.vercel.app/"><img src="https://img.shields.io/badge/Link-My%20Blog-success"/></a>
+- One of my last side-projects is a blog where I translate blogposts related to frontend world from english to spanish. Take a look <a target="_blank" href="https://medium.com/@christiancaracach"><img src="https://img.shields.io/badge/Link-My%20Blog-success"/></a>
 
 
 That's all. Thanks
