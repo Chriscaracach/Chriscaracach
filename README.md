@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Christian, thanks for take a look to my Github account.
 
- During the pandemic take advantage of the lockdown to learn as much as possible about frontend development.
+I'm a Frontend Developer with experience in React and React Native. 
 
- I decided to dedicate myself to developing interfaces with **React** and I tried to compensate for my lack of work experience, with projects of my own, trying to imitate a development environment.
- 
- I've used many online learning platforms such as freeCodeCamp, Udemy, Hackerrank and I am also studying a degree at a university near me.
+My expertise includes React (Redux, Zustand, Hooks), React Native (Expo, RN CLI), CSS (Sass/less, Material UI, Chakra UI). 
+
+My approach centers on enhancing teamwork, fostering clear communication, and tackling development challenges with unwavering positivity.
  
  ## 🚶 About me
  
