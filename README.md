@@ -8,7 +8,7 @@ My approach centers on enhancing teamwork, fostering clear communication, and ta
  
  ## 🚶 About me
  
- I am 32 years old, I am from Unquillo (Córdoba) and I live with my wife and daughter. I'm currently working as a Frontend Web Developer in a company called VelaONE from USA. 
+ I am 33 years old, I am from Unquillo (Córdoba) and I live with my wife and daughter. I'm currently working as a Frontend Web Developer in a company called VelaONE from USA. 
  
  I love being a developer, it connects me with my creative side and also makes me try to be better at team work. Please feel free of contact me if you think that you have some interesting position, I'm always open to new challenges.
  
