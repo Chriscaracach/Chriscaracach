@@ -10,10 +10,10 @@ Currently I'm working at [CodingIT](https://codingit.dev/) which is a company th
 
 ## If we ever get to share some time..
 
-You'll find that I'm a proactive guy, always looking for new challenges and learning new things.
-You'll see that I love to talk in front of people (topic doesn't matter).
-You'll realize that I'm not the best software developer out there, but you can take for sure that I'm really doing my best.
-You'll notice that I'm a good match for your team. I like to work in places I like to work and I like to make those places more "likeable".
+- You'll find that I'm a proactive guy, always looking for new challenges and learning new things.
+- You'll see that I love to talk in front of people (topic doesn't matter).
+- You'll realize that I'm not the best software developer out there, but you can take for sure that I'm really doing my best.
+- You'll notice that I'm a good match for your team. I like to work in places I like to work and I like to make those places more "likeable".
 
 ## 🔍 Find me at
 
